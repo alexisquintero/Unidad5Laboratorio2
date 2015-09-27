@@ -1,0 +1,6 @@
+C:\Proyectos\Unidades\Unidad04\Lab 07\Lab 07\bin\Lab 07.dll.config
+C:\Proyectos\Unidades\Unidad04\Lab 07\Lab 07\bin\Lab 07.dll
+C:\Proyectos\Unidades\Unidad04\Lab 07\Lab 07\bin\Lab 07.pdb
+C:\Proyectos\Unidades\Unidad04\Lab 07\Lab 07\obj\Debug\Lab 07.csprojResolveAssemblyReference.cache
+C:\Proyectos\Unidades\Unidad04\Lab 07\Lab 07\obj\Debug\Lab 07.dll
+C:\Proyectos\Unidades\Unidad04\Lab 07\Lab 07\obj\Debug\Lab 07.pdb
